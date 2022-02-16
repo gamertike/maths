@@ -1,5 +1,5 @@
 {
-  "name": "@gamertike/math",
+  "name": "simple-maths",
   "version": "1.0.0",
   "description": "A light weight math module",
   "main": "lib/cjs/index.js",
