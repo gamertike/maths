@@ -1,4 +1,6 @@
 src
-tsconfig.base.json
+tests
+jest.config.js
+tsconfig.json
 tsconfig.cjs.json
 tsconfig.mjs.json

@@ -1,10 +1,14 @@
 {
     "compilerOptions": {
+        "types": ["jest"],
         "noImplicitAny": true,
         "preserveConstEnums": true,
         "sourceMap": true,
         "moduleResolution": "Node",
         "declaration": true,
-        "declarationDir": "lib/types"
-    }
+        "declarationDir": "lib/types",
+        "esModuleInterop": true
+    },
+    "include": ["src/**/*"],
+    "exclude": ["node_modules"]
  }

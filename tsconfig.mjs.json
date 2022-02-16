@@ -1,8 +1,7 @@
 {
-  "compilerOptions": {
-      "module": "ESNext",
-      "outDir": "lib/mjs"
-  },
-  "include": ["src/**/*"],
-  "exclude": ["node_modules"]
+  "extends": "./tsconfig.json",
+    "compilerOptions": {
+        "module": "ESNext",
+        "outDir": "lib/mjs"
+    }
 }
