@@ -1,7 +1,7 @@
 {
   "name": "@gamertike/math",
   "version": "1.0.0",
-  "description": "A light weight math libary",
+  "description": "A light weight math module",
   "main": "lib/cjs/index.js",
   "module": "lib/mjs/index.js",
   "types": "lib/types/index.d.ts",
