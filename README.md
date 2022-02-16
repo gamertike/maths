@@ -1,11 +1,11 @@
-# simple-maths
+# @gamertike/maths
 A light weight math module.
 
 
 # Usage
 
 ```js
-import { add, subtract, multiply, divide } from 'simple-maths';
+import { add, subtract, multiply, divide } from '@gamertike/maths';
 
 console.log(`Add: ${add(4, 6)}`); // Add: 10
 
