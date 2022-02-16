@@ -1,5 +1,5 @@
 # @gamertike/maths
-A light weight math module.
+A light weight maths module.
 
 
 # Usage
