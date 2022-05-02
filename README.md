@@ -1,6 +1,7 @@
 # @gamertike/maths
 A light weight maths module.
 
+> **Note:** This package will no longer be updated.
 
 # Usage
 
